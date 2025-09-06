@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <!-- Magnifying glass handle -->
+  <path d="M170 290 L 250 370" stroke="#5D4037" stroke-width="25" stroke-linecap="round"/>
+  
+  <!-- Magnifying glass circle -->
+  <circle cx="130" cy="180" r="90" fill="none" stroke="#5D4037" stroke-width="20"/>
+  
+  <!-- Leaf inside magnifying glass -->
+  <path d="M100 180 Q 130 120, 180 150 Q 150 200, 100 180 Z" fill="#7CB342" stroke="#7CB342" stroke-width="2"/>
+  <path d="M100 180 Q 160 170, 180 150" fill="none" stroke="white" stroke-width="3"/>
+  
+  <!-- Text -->
+  <text x="150" y="330" font-family="Arial" font-size="45" font-weight="bold" text-anchor="middle" fill="#5D4037">FINDS</text>
+  <text x="150" y="330" font-family="Arial" font-size="45" font-weight="bold" text-anchor="middle" fill="#5D4037">FINDS</text>
+  <text x="150" y="280" font-family="Arial" font-size="45" font-weight="bold" text-anchor="middle" fill="#7CB342">ECO</text>
+  
+  <!-- Tagline -->
+  <text x="150" y="370" font-family="Arial" font-size="16" text-anchor="middle" fill="#5D4037">Renew Reuse Revitalize</text>
+</svg>

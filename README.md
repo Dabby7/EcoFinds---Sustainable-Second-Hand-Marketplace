@@ -23,10 +23,11 @@ To run the code:
 
 1. Clone the repo
 git clone https://github.com/Dabby7/EcoFinds---Sustainable-Second-Hand-Marketplace.git
+
 cd ecofinds
 
-2. Install dependencies
+3. Install dependencies
 npm install
 
-3. Run locally
+4. Run locally
 npm run dev
